@@ -1,0 +1,59 @@
+.input-field{
+    border: 1px solid gray;
+    border-radius: 7px;
+    box-shadow: 2px 3px 9px;
+}
+.search-btn{
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    width:100px;
+   
+}
+.AlPlayers{
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    gap:10px;
+    flex-wrap: wrap;
+}
+.add-card{
+    margin-top:50px;
+    height: 650px;
+    border: 1px solid gray;
+    width: 30%;
+    text-align: center;
+    border-radius: 7px;
+    box-shadow: 4px 4px 8px;
+    border: none;
+    color: black;
+    
+}
+.player-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(158, 148, 148, 0.548);
+    border-radius: 7px;
+    
+}
+.AlPlayers{
+    width: 70%;
+    display: flex;
+}
+.search-container{
+    margin-bottom:20px;
+}
+.card-info{
+    display: flex;
+    justify-content: space-around;
+    color:rgb(220, 26, 226);
+}
+.card{
+    
+    color:black;
+}
+.cardcolor{
+    background-color: rgb(101, 219, 219);
+}
